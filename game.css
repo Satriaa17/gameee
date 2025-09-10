@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    background: skyblue;
+    overflow: hidden;
+}
+
+canvas {
+    display: block;
+    margin: auto;
+    background: #70c5ce;
+}
